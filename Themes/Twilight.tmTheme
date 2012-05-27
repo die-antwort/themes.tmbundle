@@ -79,6 +79,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Constant (Ruby: Symbol used as hash key)</string>
+			<key>scope</key>
+			<string>constant.other.symbol.ruby.hashkey</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9B703F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Entity</string>
 			<key>scope</key>
 			<string>entity</string>

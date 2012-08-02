@@ -81,7 +81,7 @@
 			<key>name</key>
 			<string>Constant (Ruby: Symbol used as hash key)</string>
 			<key>scope</key>
-			<string>constant.other.symbol.ruby.hashkey</string>
+			<string>constant.other.symbol.hashkey.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

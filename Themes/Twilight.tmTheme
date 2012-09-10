@@ -68,6 +68,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Merge Conflict Markers</string>
+			<key>scope</key>
+			<string>comment.mergeconflict.marker</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#4A410D</string>
+				<key>foreground</key>
+				<string>#f8f8f8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Merge Conflict Markers</string>
+			<key>scope</key>
+			<string>comment.merge-marker</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#48191D</string>
+				<key>foreground</key>
+				<string>#f8f8f8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
 			<string>constant</string>

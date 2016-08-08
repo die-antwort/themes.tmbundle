@@ -107,7 +107,7 @@
 			<key>name</key>
 			<string>Constant (Ruby: Symbol used as hash key)</string>
 			<key>scope</key>
-			<string>constant.other.symbol.hashkey.ruby</string>
+			<string>constant.other.symbol.hashkey</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

@@ -552,6 +552,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup: Raw Inline</string>
+			<key>scope</key>
+			<string>markup.raw.inline</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8F9D6A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Markup: List</string>
 			<key>scope</key>
 			<string>markup.list</string>

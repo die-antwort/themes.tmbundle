@@ -33,7 +33,7 @@
 				<key>caret</key>
 				<string>#A7A7A7</string>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#E8E8E8</string>
 				<key>invisibles</key>
 				<string>#FFFFFF40</string>
 				<key>lineHighlight</key>
@@ -151,6 +151,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#F9EE98</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language Specifier in Markdown Code Blocks</string>
+			<key>scope</key>
+			<string>storage.type.language.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#5F5A60</string>
 			</dict>
 		</dict>
 		<dict>
@@ -558,7 +571,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F9D6A</string>
+				<string>#9B859D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Link</string>
+			<key>scope</key>
+			<string>markup.underline.link - comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7587A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation: Defintion</string>
+			<key>scope</key>
+			<string>punctuation.definition.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5F5A60</string>
 			</dict>
 		</dict>
 		<dict>
@@ -567,10 +602,7 @@
 			<key>scope</key>
 			<string>markup.list</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F9EE98</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -580,7 +612,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CF6A4C</string>
+				<string>#C5AF75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Heading Text in Markdown</string>
+			<key>scope</key>
+			<string>entity.name.section.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C5AF75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -591,7 +634,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B0B3BA05</string>
+				<string>#B0B3BA0A</string>
 			</dict>
 		</dict>
 	</array>

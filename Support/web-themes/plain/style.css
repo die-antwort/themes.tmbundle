@@ -2,7 +2,7 @@ body.plain {
   background: #f5f5f5;
   color: black;
   font-family: caption, sans-serif;
-  line-height: normal;
+  line-height: 1.5;
   margin: 0;
   padding: 0;
 }
@@ -106,7 +106,7 @@ body.plain {
   -webkit-box-shadow: 0 0.5px 1px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.5px 1px 0 rgba(0, 0, 0, 0.1);
   font-size: 90%;
-  line-height: normal;
+  line-height: 1.5;
 }
 .plain pre code {
   -webkit-box-shadow: none;
